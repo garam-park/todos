@@ -6,7 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Todo extends Model
 {
-	public $fillalbe = [
+	public $fillable = [
 		'title',
 		'desc',
 	];
